@@ -42,19 +42,15 @@ export default function About() {
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>
-              Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His
-              research interests includes complexity modelling of tailwinds, headwinds and
-              crosswinds.
+              I build intuitive multiplatfrom apps with Javascipt experience. I am a Fullstack
+              developer and my area of expertise is NodeJS 🎗, ReactJS ✨, React Native ♥️,
+              ElectronJS, Redux, Scss / CSS , MySQL / SQL Server, Algorithms and data structure,
+              RestFull Api and ExpressJS. Love to work my passion for programming multiplatform
+              apps. Ready on Mobile , Dekstop and Web Apps !.
             </p>
             <p>
-              He leads the clean energy group which develops 3D air pollution-climate models, writes
-              differential equation solvers, and manufactures titanium plated air ballons. In his
-              free time he bakes raspberry pi.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique
-              placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem
-              nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+              Love to learning something new. Interest on football ,cryptocurrency and investing
+              "all human can do anything and learn evrything" . We can alaway imporve ourself
             </p>
           </div>
         </div>
