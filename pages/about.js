@@ -41,7 +41,7 @@ export default function About() {
             </div>
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
-            <span>
+            <span aria-labelledby="jsx-allly/accessible-emoji" role="img">
               I build intuitive multiplatfrom apps with Javascipt experience. I am a Fullstack
               developer and my area of expertise is NodeJS 🎗, ReactJS ✨, React Native ♥️,
               ElectronJS, Redux, Scss / CSS , MySQL / SQL Server, Algorithms and data structure,
