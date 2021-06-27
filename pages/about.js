@@ -41,13 +41,13 @@ export default function About() {
             </div>
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
-            <p>
+            <span>
               I build intuitive multiplatfrom apps with Javascipt experience. I am a Fullstack
               developer and my area of expertise is NodeJS 🎗, ReactJS ✨, React Native ♥️,
               ElectronJS, Redux, Scss / CSS , MySQL / SQL Server, Algorithms and data structure,
               RestFull Api and ExpressJS. Love to work my passion for programming multiplatform
               apps. Ready on Mobile , Dekstop and Web Apps !.
-            </p>
+            </span>
             <p>
               Love to learning something new. Interest on football ,cryptocurrency and investing
               "all human can do anything and learn evrything" . We can alaway imporve ourself
